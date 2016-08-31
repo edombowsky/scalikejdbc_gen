@@ -1,4 +1,4 @@
-name := "scalikejdbc_gen"
+name := "gen-picklist"
 
 version := "1.0.0"
 
